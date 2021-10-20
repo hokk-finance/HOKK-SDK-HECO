@@ -1,16 +1,16 @@
 {
-  "name": "@mdex/bsc-sdk",
+  "name": "@hokk/bsc-sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of MDEX.",
+  "description": "🛠 An SDK for building applications on top of PANCAKE for hokk.finance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/mdexSwap/bsc-sdk.git",
+  "repository": "https://github.com/hokk-finance/HOKK-SDK.git",
   "keywords": [
-    "mdex",
+    "hokk",
     "bsc",
     "swap"
   ],
