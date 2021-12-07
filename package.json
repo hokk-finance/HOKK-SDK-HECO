@@ -1,18 +1,19 @@
 {
-  "name": "@hokk/bsc-sdk",
+  "name": "@hokk/heco-sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of PANCAKE for hokk.finance.",
+  "description": "🛠 An SDK for building applications on top of heco router for hokk.finance",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/hokk-finance/HOKK-SDK.git",
+  "repository": "https://github.com/hokk-finance/HOKK-SDK-HECO.git",
   "keywords": [
     "hokk",
-    "bsc",
-    "swap"
+    "heco",
+    "swap",
+    "sdk"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
